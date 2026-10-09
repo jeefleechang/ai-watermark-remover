@@ -4,4 +4,6 @@ __pycache__/
 /test_wm.png
 /test_out.png
 /compare.png
+/tests/test_wm.png
+/tests/test_out.png
 .DS_Store
