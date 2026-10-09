@@ -1,7 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
-test_wm.png
-test_out.png
-compare.png
+/test_wm.png
+/test_out.png
+/compare.png
 .DS_Store
